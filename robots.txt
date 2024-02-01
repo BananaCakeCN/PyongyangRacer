@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /
 Allow: /index.html
+Allow: /racer_images/koryotours_top_icon.jpg
 
 Sitemap: https://pyongyang.bananacake.top/sitemap.xml
