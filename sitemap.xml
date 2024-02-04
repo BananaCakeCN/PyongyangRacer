@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://pyongyang.bananacake.top/</loc>
-      <lastmod>2012-12-19</lastmod>
+      <loc>https://pyongyang.bananacake.top/index.html</loc>
+      <changefreq>never</changefreq>
+   </url>
+   <url>
+      <loc>https://pyongyang.bananacake.top/racer_about.html</loc>
+      <changefreq>never</changefreq>
+   </url>
+   <url>
+      <loc>https://pyongyang.bananacake.top/racer_top10.html</loc>
+      <changefreq>never</changefreq>
+   </url>
+   <url>
+      <loc>https://pyongyang.bananacake.top/racer_travel.html</loc>
       <changefreq>never</changefreq>
    </url>
 </urlset> 
